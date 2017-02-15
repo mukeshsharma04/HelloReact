@@ -1,5 +1,5 @@
 # HelloReact
-# Say Hello to React ! Change Data on Form Submit
+Say Hello to React ! Change Data on Form Submit
 
 # To install all dependecies
   Use "npm install"
