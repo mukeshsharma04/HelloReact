@@ -1,12 +1,12 @@
 # HelloReact
-Say Hello to React ! Change Data on Form Submit
+# Say Hello to React ! Change Data on Form Submit
 
-To install all dependecies
+# To install all dependecies
   Use "npm install"
 
-To Start Server : Move to your directory
+# To Start Express Server : Move to your directory
   "node server.js"
   
-Open your browser .
+# Open your browser .
  "http://localhost:3000/"
 
